@@ -2,4 +2,20 @@
     <string name="app_name">Portable Portfolio</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="basic_details">
+        Hi, I am Gerry Vien Flores, a 19 year-old BSIT Student in Camarines Norte State College.\n\n
+        <b>Some Interesting facts about me are the following:</b>\n\n
+        1. I think of a solution for bugs/errors while I\'m taking a bath or doing something that is not related to programming.\n\n
+        2. I usually joke about womanizing, but in reality I can\'t approach or talk to someone I\'m attracted to(Torpe).\n\n
+        3. I hate people who put ketchup on to the shawarma.\n\n
+        4. I take computer-related commissions to earn money and practice my skills or to learn new one.\n\n
+        5. Most of the time my dreams are so vivid that I mistaken them from reality.\n\n
+        <b>These are some of my hobbies that I do when I\'m bored or I have free time:</b>\n\n
+        1. Programming(Solving Problems, Making a System for Fun, Practicing CyberSecurity, etc).\n\n
+        2. Solving Rubik\'s Cube.\n\n
+        3. Playing Video Games like Mobile Legends, League of Legends, and Valorant.\n\n
+        4. Watching YouTube Shorts/Facebook Reels\n\n
+        5. Imagining and Visualizing alternate timelines with different way of living.
+    </string>
+    <string name="Button">BackButton</string>
 </resources>

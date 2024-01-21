@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
             public void run() {
                 // Replace SplashFragment with your main fragment or activity
                 getSupportFragmentManager().beginTransaction()
-                        .replace(R.id.fragment_container, new SplashFragment())
+                        .replace(R.id.fragment_container, new MainFragment())
                         .commit();
             }
         }, 3000);
